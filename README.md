@@ -1,7 +1,7 @@
 <h1>JS AND PHP</h1>
 
 <h2>Description</h2>
-This project makes use of HTML, CSS, and Javascript for the frontend and Php for the Backend. The with this web app we are able to read, create, update and delete records in a myql database. This web app makes use of an API which enables the backend to be writtan in any other language.
+This project makes use of HTML, CSS, and Javascript for the frontend and Php for the Backend. With this web app we are able to read, create, update and delete records in a myql database. This web app makes use of an API which enables the backend to be writtan in any other language.
 <br />
 
 <h2>Program walk-through:</h2>
